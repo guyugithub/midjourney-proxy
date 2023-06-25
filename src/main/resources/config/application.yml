@@ -9,12 +9,12 @@ logging:
 knife4j:
   enable: true
   openapi:
-    title: Midjourney Proxy API文档
-    description: 代理 MidJourney 的discord频道，实现api形式调用AI绘图
-    concat: novicezk
-    url: https://github.com/novicezk/midjourney-proxy
+    title: POOK Midjourney API文档
+    description: POOK 的Midjourney频道，实现api形式调用AI绘图
+    concat: pook-guyu
+    url: 
     version: v2.3
-    terms-of-service-url: https://github.com/novicezk/midjourney-proxy
+    terms-of-service-url: 
     group:
       api:
         group-name: API
